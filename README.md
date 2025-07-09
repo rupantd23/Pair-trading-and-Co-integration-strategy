@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title:** Pairs Trading and Cointegration Strategy   
-**Domain:** Quantitative Finance, Algorithmic Trading
+
 
 This project implements a market-neutral pairs trading strategy using statistical techniques such as correlation and cointegration to identify and trade highly correlated stock pairs. The approach is designed to exploit mean-reverting relationships between stocks, aiming for consistent returns regardless of overall market direction.
 
@@ -78,8 +78,5 @@ Pairs trading is a form of statistical arbitrage that involves identifying two s
 - "Statistical Arbitrage: Algorithmic Trading Insights and Techniques" by Andrew Pole
 - [Investopedia: Pairs Trading](https://www.investopedia.com/terms/p/pairs_trade.asp)
 
-## License
-
-This project is intended for educational and research purposes. Please review the repository’s license file for usage terms.
 
 **For questions, contributions, or collaboration, please open an issue or submit a pull request on GitHub.**
